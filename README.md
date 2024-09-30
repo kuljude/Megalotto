@@ -1,0 +1,2 @@
+# Megalotto
+app install
